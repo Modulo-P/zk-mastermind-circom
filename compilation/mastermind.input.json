@@ -1,0 +1,14 @@
+{
+  "pubNumBlacks": "0",
+  "pubNumWhites": "4",
+  "pubSolnHash": "391047073361247658225232481261784502922906942967577347518894619662429381081",
+  "privSalt": "96707793635364489094813758363877200250",
+  "pubGuessA": "4",
+  "pubGuessB": "3",
+  "pubGuessC": "2",
+  "pubGuessD": "1",
+  "privSolnA": "1",
+  "privSolnB": "2",
+  "privSolnC": "3",
+  "privSolnD": "4"
+}
