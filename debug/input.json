@@ -1,0 +1,14 @@
+{
+  "privSalt": "87898302356751475480783098295943253803",
+  "privSolnA": 1,
+  "privSolnB": 4,
+  "privSolnC": 1,
+  "privSolnD": 2,
+  "pubGuessA": 0,
+  "pubGuessB": 0,
+  "pubGuessC": 0,
+  "pubGuessD": 0,
+  "pubNumBlacks": 0,
+  "pubNumWhites": 0,
+  "pubSolnHash": "28075467314272861961247599273103266647311805280180193492401009924160954675"
+}
